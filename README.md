@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jugal Borse</h1>
-<h3 align="center">I enjoy contributing to open source projects and staying up-to-date with the latest trends in technology. I also enjoy collaborating with other developers</h3>
+<div style="border: 2px solid #e1e4e8; border-radius: 5px; padding: 20px; width: 80%; margin: auto;">
+  <h3 align="center">
+    I am passionate about contributing to open source projects and keeping abreast of the latest technological advancements. With a strong foundation in software development, I thrive on collaborating with fellow developers to create innovative solutions. My expertise spans various programming languages and frameworks, and I am committed to continuous learning and professional growth. I actively participate in the developer community, sharing knowledge and best practices, and I am driven by a desire to make meaningful contributions to impactful projects.
+  </h3>
+</div>
+
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borsejugal23&label=Profile%20views&color=0e75b6&style=flat" alt="borsejugal23" /> </p>

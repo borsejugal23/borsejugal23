@@ -10,7 +10,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [my GitHub repository](https://github.com/borsejugal23?tab=repositories)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EQrYO4iJCWda9_LrAxYttEXzl0UXRvG-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W7k2WjU07hrK9jn2NAmEUxjPQ5FPWPQn/view?usp=sharing)
 - 📫 How to reach me **borsejugal@gmail.com**
 - 🌐 Know more about me [Portfolio](https://borsejugal23.github.io)
 

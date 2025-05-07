@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jugal Borse</h1>
 <h3 align="center">
-    I am passionate about contributing to open source projects and keeping abreast of the latest technological advancements. With a strong foundation in software development, I thrive on collaborating with fellow developers to create innovative solutions. My expertise spans various programming languages and frameworks, and I am committed to continuous learning and professional growth. I actively participate in the developer community, sharing knowledge and best practices, and I am driven by a desire to make meaningful contributions to impactful projects.
+    Full Stack Developer with 1.7 years of professional experience building scalable web applications using JavaScript, React, Node.js, and MongoDB. Proven ability to deliver responsive UIs, implement backend APIs, and collaborate in Agile teams. Strong foundation in both frontend and backend technologies, and a passion for building impactful user experiences.
 </h3>
 
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>

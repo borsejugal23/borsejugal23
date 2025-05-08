@@ -55,7 +55,7 @@
     <img src="https://blog.logrocket.com/wp-content/uploads/2022/01/data-visualization-react-ant-design.png" alt="ant design" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="[https://banner2.cleanpng.com/20180610/sks/kisspng-mysql-database-server-microsoft-sql-server-5b1d8657d3e489.9771192415286615918679.jpg](https://djeqr6to3dedg.cloudfront.net/repo-logos/library/mysql/live/logo-1720462237323.png)" alt="MySQL" width="40" height="40" />
+    <img src="https://banner2.cleanpng.com/20180610/sks/kisspng-mysql-database-server-microsoft-sql-server-5b1d8657d3e489.9771192415286615918679.jpg](https://djeqr6to3dedg.cloudfront.net/repo-logos/library/mysql/live/logo-1720462237323.png" alt="MySQL" width="40" height="40" />
   </a>
 </p>
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jugal Borse</h1>
 <h3 align="center">
-    Full Stack Developer with 1.2 years of professional experience building scalable web applications using JavaScript, React, Node.js, and MongoDB. Proven ability to deliver responsive UIs, implement backend APIs, and collaborate in Agile teams. Strong foundation in both frontend and backend technologies, and a passion for building impactful user experiences.
+    Full Stack Developer with professional experience building scalable web applications using JavaScript, React, Node.js, and MongoDB. Proven ability to deliver responsive UIs, implement backend APIs, and collaborate in Agile teams. Strong foundation in both frontend and backend technologies, and a passion for building impactful user experiences.
 </h3>
 
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
